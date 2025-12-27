@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently studying at: BMS Institute of Technology and Management, pursuing a Bachelor of Engineering in Electronics and Communication.<br>👯 I’m looking for opportunities on: Data Analytics, Business Intelligence, and Junior Data Analyst roles where I can leverage my skills in SQL and Power BI.<br>🌱 I’m currently learning: Machine Learning integration for behavioral analytics and advanced data visualization techniques.<br>💬 Ask me about: Data cleaning with SQL, building interactive dashboards in Tableau or Power BI, and cross-platform development with Flutter.<br>
+🎓 I’m currently studying at: BMS Institute of Technology and Management, pursuing a Bachelor of Engineering in Electronics and Communication.<br>👯 I’m looking for opportunities on: Data Analytics, Business Intelligence, and Junior Data Analyst roles where I can leverage my skills in SQL, Tableau and Power BI.<br>🌱 I’m currently learning: Machine Learning integration for behavioral analytics and advanced data visualization techniques.<br>💬 Ask me about: Data cleaning with SQL, building interactive dashboards in Tableau or Power BI, and cross-platform development with Flutter.<br>
 
 
 ## 🌐 Socials:
